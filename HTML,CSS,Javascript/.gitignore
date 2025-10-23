@@ -1,0 +1,18 @@
+# Ignore Visual Studio specific folders
+.vs/
+*.db
+*.db-shm
+*.db-wal
+
+# Build folders
+bin/
+obj/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# IDE config
+*.user
+*.suo
+*.cache

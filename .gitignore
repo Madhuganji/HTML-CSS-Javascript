@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HTML,CSS,Javascript/.vs/HTML,CSS,Javascript/FileContentIndex/f4a8d696-e704-4373-b916-a6d7a6a500e5.vsidx
+/HTML,CSS,Javascript/.vs/HTML,CSS,Javascript/CopilotIndices/17.14.1147.5054/CodeChunks.db
+/HTML,CSS,Javascript/.vs/HTML,CSS,Javascript/CopilotIndices/17.14.1147.5054/CodeChunks.db-shm
+/HTML,CSS,Javascript/.vs/HTML,CSS,Javascript/CopilotIndices/17.14.1147.5054/CodeChunks.db-wal
+/HTML,CSS,Javascript/.vs/HTML,CSS,Javascript/CopilotIndices/17.14.1147.5054/SemanticSymbols.db-shm
+/HTML,CSS,Javascript/.vs/HTML,CSS,Javascript/CopilotIndices/17.14.1147.5054/SemanticSymbols.db
+/HTML,CSS,Javascript/.vs/HTML,CSS,Javascript/CopilotIndices/17.14.1147.5054/SemanticSymbols.db-wal
+/HTML,CSS,Javascript/.vs/slnx.sqlite
